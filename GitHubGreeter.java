@@ -10,9 +10,10 @@ public class GitHubGreeter {
         name = "Quinn";
         return "Welcome to GitHub, " + name;
     }
-    public String wishes() {
-        return "Have a great semester in CSC 241!";
-    }
+
   // Write the wishes method here
+     public String wishes() {
+        return "Have a great semester in CSC 241!";
+  }
 
 }
