@@ -17,3 +17,10 @@ public class GitHubGreeter {
   }
 
 }
+
+public class Main {
+  public static void main(String[] args) {
+    welcome("Quinn");
+    wishes();
+  }
+}  
